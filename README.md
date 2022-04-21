@@ -4,8 +4,8 @@
 
 
 
-## 엔티티
-![image](https://user-images.githubusercontent.com/12987315/164489076-ee70f097-f29c-4759-99dd-c57c88f33cea.png)
+## 엔티티 & Aggregate
+![image](https://user-images.githubusercontent.com/12987315/164511274-afcf39d5-8c66-40c4-ae10-17246b30e163.png)
 
 
 ## MSA Architecture
