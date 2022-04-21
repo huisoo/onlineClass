@@ -10,3 +10,7 @@
 
 ## MSA Architecture
 ![image](https://user-images.githubusercontent.com/12987315/164492103-f95424ba-1739-410d-a5b5-2aaefcb7d9db.png)
+
+
+## API 설계
+[온라인학습_API설계.docx](https://github.com/huisoo/onlineClass/files/8532851/_API.docx)
